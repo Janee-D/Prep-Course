@@ -1,0 +1,29 @@
+  body{
+        background-image: url("https://i.pinimg.com/736x/6a/2f/72/6a2f72a7d5eedc52741d08fb262457fc.jpg");
+background-size: 15rem;
+    }
+    
+    h1{
+    color:cornflowerblue
+}
+h2{
+    color:cornflowerblue
+}
+h3{
+    color:darkcyan
+}
+h4{
+    color:darkslategrey
+}
+ul{
+    color:black
+}
+a{
+    color:steelblue
+}
+p{
+    color:black
+}
+img{
+    width: 200px;
+}
